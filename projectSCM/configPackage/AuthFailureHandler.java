@@ -16,6 +16,7 @@ import java.io.IOException;
 
 @Component
 public class AuthFailureHandler implements AuthenticationFailureHandler {
+    //email work
 //    @Autowired
 //    private EmailService emailService;
     @Override
